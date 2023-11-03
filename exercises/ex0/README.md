@@ -13,18 +13,18 @@ There are two options to get access to the tools needed later.
 To check out the project, clone this GitHub repository by opening a terminal (cmd in Windows search) and copying the below into the terminal window:
 
 ```
-git clone https://github.com/SAP-samples/teched2023-IN261
+git clone https://github.com/SAP-samples/asugtech2023-in261
 ```
 
 Then open your Explorer and go to the folder that you have just cloned. 
 
 You will find it in your user directory.
 
-Go to: your user directory and then to teched2023-IN261/tools/AEM Samples/src/basic-samples
+Go to: your user directory and then to asugtech2023-in261/tools/AEM Samples/src/basic-samples
 
 ### Option 2 - Download and unzip
 
-Go to the [main](https://github.com/SAP-samples/teched2023-IN261/tree/main) folder. Download the AEM Samples.
+Go to the [main](https://github.com/SAP-samples/asugtech2023-in261/tree/main) folder. Download the AEM Samples.
 
 To download, click on Code and select Download ZIP
 
@@ -38,7 +38,7 @@ The result should look like this:
 
 ![Pic 2](/./images/ex0-2.png)
 
-You should be able to find the tools you will need later on in the folder teched2023-IN261/tools/AEM Samples/src/basic-samples
+You should be able to find the tools you will need later on in the folder asugtech2023-in261/tools/AEM Samples/src/basic-samples
 
 ![Pic 3](/./images/ex0-3.png)
 
