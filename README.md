@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/asugtech2023-in261)](https://api.reuse.software/info/github.com/SAP-samples/asugtech2023-in261)
+
 # IN261 - Gain a Comprehensive View of Event-Driven Architecture
 
 ![Pic 1](/./images/IN261-1.jpeg)
